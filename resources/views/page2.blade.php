@@ -25,23 +25,14 @@
 
         <!-- CSS -->
 
-        <link rel="stylesheet" href="{{ asset('style.css') }}">
+        <link rel="stylesheet" href="css/style.css">
         <!-- Styles -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.6.2/sass.min.js" integrity="sha512-lmuNSGprTM9SdDQ8WuvkeGSgUn4R7jogp37VuQ8rrdNOSHQ9UDY9PF5f/gXjhMytuvxf3NADUXL+eb7K0DvIcw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
     </head>
     <body>
 
 
-        <header>
-            <h1 class="text-center"> Laravel Home Page</h1>
-            <ul class="bg-dark">
-                <li><a href="page1"> Pagina 1 </a></li>
-                <li><a href="page2"> Pagina 2 </a></li>
-                <li><a href="http://www.google.com"> Google </a></li>
-                
-            </ul>
-
-        </header>
+        <h2 class="d-flex justify-content-center align-items-center vh-100 text-danger fw-bolder fs-1 ">PAGINA 2</h2>
 
 
 
